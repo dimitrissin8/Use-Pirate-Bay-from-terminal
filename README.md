@@ -6,3 +6,12 @@ To do that, open terminal and run the following code:
 #sudo apt-get install transmission-cli
 
 Python libraries needed: requests, os, BeautifulSoup (all pre-installed)
+
+Useful abilities:
+
+1)Aytomatic detection of a piratebay proxy server.
+
+2)Search for available torrents.
+
+3)Download Torrents from the Command Line.
+
